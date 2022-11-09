@@ -17,7 +17,7 @@ public final class CalculatorAlgo {
         return a + b;
     }
     public static int multiplication(int a, int b) {
-        return 0;
+        return a * b;
     }
 
     private CalculatorAlgo() {
