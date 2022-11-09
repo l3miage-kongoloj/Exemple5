@@ -11,9 +11,13 @@ public final class CalculatorAlgo {
      * @param a the first number
      * @param b the second number
      * @return the result of a + b
+     * @return the result of a * b
      */
     public static int add(int a, int b) {
         return a + b;
+    }
+    public static int multiplication(int a, int b) {
+        return 0;
     }
 
     private CalculatorAlgo() {
